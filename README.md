@@ -4,15 +4,6 @@
 
 ---
 
-## Demo
-
-[**▶ Watch the 2-minute demo on Loom**](https://www.loom.com/share/PASTE_LOOM_URL_HERE)
-
-<!-- Optional: drop a screenshot into ./assets/ and reference it here -->
-<!-- ![Paperback screenshot](./assets/screenshot.png) -->
-
----
-
 ## The problem
 
 ML researchers add ~150 papers to their reading list per week. They forget what's in each one within a month. ChatGPT answers questions but invents page numbers and citations. Existing tools are either built for general docs (no grounding) or for discovery rather than deep recall over a corpus you've already chosen.
