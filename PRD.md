@@ -2,8 +2,8 @@
 
 A citation-grounded research assistant for ML researchers reading more papers than they can actually read.
 
-**Author:** [Your Name]
-**Status:** v0.1 — built as portfolio project
+**Author:** [Aafreen]
+**Status:** v0.1 
 **Last updated:** May 2026
 
 ---
